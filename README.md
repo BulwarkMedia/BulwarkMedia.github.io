@@ -105,4 +105,26 @@ Du hast das Recht, dich bei einer Datenschutz-Aufsichtsbehörde über die Verarb
 
 ---
 
+# Barrierefreiheit
+
+## Geltungsbereich
+Welche Website, App oder Teile die Erklärung abdeckt	beide
+
+## Konformitätsstatus
+vollständig / teilweise / nicht vereinbar mit EN 301 549 bzw. WCAG AA	beide
+
+## Bekannte Einschränkungen	
+Was nicht zugänglich ist, warum, bis wann	§ 12b BGG · Anlage 3 Nr. 1 c
+
+## Feedback-Mechanismus	
+Kontaktweg zum Melden von Barrieren	beide
+
+## Durchsetzung	
+Hinweis auf Schlichtungsstelle nach § 16 BGG	§ 12b BGG
+
+## Aufsichtsbehörde
+zuständige Marktüberwachungsbehörde	Anlage 3 Nr. 1 d
+
+---
+
 Bulwark Media - [bulwarkmedia@mailbox.org](mailto:bulwarkmedia@mailbox.org) - BulwarkMedia.github.io
