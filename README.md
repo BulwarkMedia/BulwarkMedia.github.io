@@ -43,7 +43,7 @@ Dieses Impressum gilt für den Discord-Server „NAME“ sowie für meine Kanäl
 Bulwark Media  
 Inhaber Andreas Freund  
 E-Mail: bulwarkmedia@mailbox.org  
-Anschrift: siehe Impressum
+Anschrift: siehe [Impressum](https://bulwarkmedia.github.io/#angaben-gemäß--5-ddg "Impressum")
 
 ## 2. Plattform
 
