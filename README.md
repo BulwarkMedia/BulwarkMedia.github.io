@@ -234,7 +234,7 @@ Der Konformitätsstatus ist vollständig.
 Einschränkungen nach § 12b BGG · Anlage 3 Nr. 1 c sind nicht bekannt.
 
 ## 4. Feedback-Mechanismus	
-Sollten die Barrieren auffallen, wende dich bitte an [bulwarkmedia@mailbox.org](mailto:bulwarkmedia@mailbox.org).
+Sollten dir Barrieren auffallen, wende dich bitte an [bulwarkmedia@mailbox.org](mailto:bulwarkmedia@mailbox.org).
 
 ## 5. Durchsetzung	
 Bei Problemen mit der Umsetzung der Barrierefreiheit der Bulwark Media wende dich nach § 16 BGG	§ 12b BGG an:  
