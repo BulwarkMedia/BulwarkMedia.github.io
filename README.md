@@ -4,8 +4,8 @@
 
 # Inhalt
 
-1. [Impressum](https://bulwarkmedia.github.io/#angaben-gemäß--5-ddg "Impressum"
-2. [Datenschutz Discord](https://bulwarkmedia.github.io/#1-verantwortlicher "Datenschutz Discord"
+1. [Impressum](https://bulwarkmedia.github.io/#angaben-gemäß--5-ddg "Impressum")
+2. [Datenschutz Discord](https://bulwarkmedia.github.io/#1-verantwortlicher "Datenschutz Discord")
 3. Datenschutz — Twitch, YouTube und Social Media
 4. [Barrierefreiheit](https://bulwarkmedia.github.io/#geltungsbereich-1 "Barrierefreiheit")
 
