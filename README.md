@@ -196,7 +196,7 @@ Chatverläufe und Kommentare bleiben bei der jeweiligen Plattform gespeichert, s
 
 Dir stehen die Rechte auf Auskunft (Art. 15), Berichtigung (Art. 16), Löschung (Art. 17), Einschränkung der Verarbeitung (Art. 18) und Datenübertragbarkeit (Art. 20) zu, ebenso der Widerruf erteilter Einwilligungen nach Art. 7 Abs. 3 DSGVO.
 
-> ✱*WIDERSPRUCHSRECHT**
+> **WIDERSPRUCHSRECHT**
 >Du hast das Recht, aus Gründen, die sich aus deiner besonderen Situation ergeben, jederzeit gegen die Verarbeitung auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO Widerspruch einzulegen (Art. 21 DSGVO).
 
 Wenn du möchtest, dass dein Chatbeitrag oder dein Kommentar aus einer Aufzeichnung entfernt wird, wende dich an [bulwarkmedia@mailbox.org](mailto:bulwarkmedia@mailbox.org). Zur Zuordnung deiner Anfrage gib bitte deinen Benutzernamen an.
