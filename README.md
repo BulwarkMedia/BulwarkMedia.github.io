@@ -135,4 +135,4 @@ zuständige Marktüberwachungsbehörde	Anlage 3 Nr. 1 d
 
 ---
 
-Bulwark Media - [bulwarkmedia@mailbox.org](mailto:bulwarkmedia@mailbox.org) - BulwarkMedia.github.io
+Bulwark Media - [bulwarkmedia@mailbox.org](mailto:bulwarkmedia@mailbox.org) - [BulwarkMedia.github.io](https://bulwarkmedia.github.io/ "Bulwark Media - Impressum, Datenschutz und Barrierefreiheit")
