@@ -34,7 +34,7 @@ Deutschland
 
 ## Geltungsbereich
 
-Dieses Impressum gilt für den Discord-Server „NAME“ sowie für meine Kanäle auf Twitch, YouTube und Instagram.
+Dieses Impressum gilt für den Discord-Server „NAME“ sowie für die Kanäle auf Twitch, YouTube und Instagram der Bulwark Media.
 
 # Datenschutz — Discord-Server
 
@@ -95,3 +95,8 @@ Dir stehen die Rechte auf Auskunft (Art. 15), Berichtigung (Art. 16), Löschung 
 > Du hast das Recht, aus Gründen, die sich aus deiner besonderen Situation ergeben, jederzeit gegen die Verarbeitung auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO Widerspruch einzulegen (Art. 21 DSGVO).
 
 Wende dich dafür an bulwarkmedia@mailbox.org. Zur Zuordnung deiner Anfrage gib bitte deinen Benutzernamen an.
+
+## 7. Beschwerderecht
+
+Du hast das Recht, dich bei einer Datenschutz-Aufsichtsbehörde über die Verarbeitung deiner Daten zu beschweren, insbesondere bei der Behörde deines gewöhnlichen Aufenthaltsorts oder Arbeitsplatzes.
+
