@@ -100,3 +100,6 @@ Wende dich dafür an [bulwarkmedia@mailbox.org](mailto:bulwarkmedia@mailbox.org)
 
 Du hast das Recht, dich bei einer Datenschutz-Aufsichtsbehörde über die Verarbeitung deiner Daten zu beschweren, insbesondere bei der Behörde deines gewöhnlichen Aufenthaltsorts oder Arbeitsplatzes.
 
+---
+
+Bulwark Media - [bulwarkmedia@mailbox.org](mailto:bulwarkmedia@mailbox.org)
