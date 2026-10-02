@@ -1,5 +1,6 @@
-BulwarkMedia.github.io
 # DIESE SEITE BEFINDET SICH NOCH IM AUFBAU - DIE DATEN SIND NOCH NICHT AKTUELL
+
+---
 
 # Impressum
 
@@ -35,6 +36,8 @@ Deutschland
 ## Geltungsbereich
 
 Dieses Impressum gilt für den Discord-Server „NAME“ sowie für die Kanäle auf Twitch, YouTube und Instagram der Bulwark Media.
+
+---
 
 # Datenschutz — Discord-Server
 
@@ -102,4 +105,4 @@ Du hast das Recht, dich bei einer Datenschutz-Aufsichtsbehörde über die Verarb
 
 ---
 
-Bulwark Media - [bulwarkmedia@mailbox.org](mailto:bulwarkmedia@mailbox.org)
+Bulwark Media - [bulwarkmedia@mailbox.org](mailto:bulwarkmedia@mailbox.org) - BulwarkMedia.github.io
