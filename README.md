@@ -1,20 +1,21 @@
 > DIESE SEITE BEFINDET SICH NOCH IM AUFBAU - DIE DATEN SIND NOCH NICHT AKTUELL
 
 # Bulwark Media - Impressum, Datenschutz und Barrierefreiheit
+
+Stand: 02. Oktober 2026
+
 ---
 
 # Inhalt
 
 1. [Impressum](https://bulwarkmedia.github.io/#angaben-gemäß--5-ddg "Impressum")
 2. [Datenschutz Discord](https://bulwarkmedia.github.io/#1-verantwortlicher "Datenschutz Discord")
-3. Datenschutz — Twitch, YouTube und Social Media
-4. Datenschutz - Kooperationen
+3. [Datenschutz — Twitch, YouTube und Social Media](https://bulwarkmedia.github.io/#1-geltungsbereich "Datenschutz — Twitch, YouTube und Social Media")  
+4. [Datenschutz - Kooperationen](https://bulwarkmedia.github.io/#1-geltungsbereich-1 "Datenschutz - Kooperationen")  
 5. [Barrierefreiheit](https://bulwarkmedia.github.io/#geltungsbereich-1 "Barrierefreiheit")
 
 ---
 # Impressum
-
-Stand: 02.10.2026
 
 ## Angaben gemäß § 5 DDG
 
