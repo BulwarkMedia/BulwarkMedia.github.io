@@ -196,7 +196,7 @@ Chatverläufe und Kommentare bleiben bei der jeweiligen Plattform gespeichert, s
 
 Dir stehen die Rechte auf Auskunft (Art. 15), Berichtigung (Art. 16), Löschung (Art. 17), Einschränkung der Verarbeitung (Art. 18) und Datenübertragbarkeit (Art. 20) zu, ebenso der Widerruf erteilter Einwilligungen nach Art. 7 Abs. 3 DSGVO.
 
-> **WIDERSPRUCHSRECHT**
+> **WIDERSPRUCHSRECHT**  
 >Du hast das Recht, aus Gründen, die sich aus deiner besonderen Situation ergeben, jederzeit gegen die Verarbeitung auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO Widerspruch einzulegen (Art. 21 DSGVO).
 
 Wenn du möchtest, dass dein Chatbeitrag oder dein Kommentar aus einer Aufzeichnung entfernt wird, wende dich an [bulwarkmedia@mailbox.org](mailto:bulwarkmedia@mailbox.org). Zur Zuordnung deiner Anfrage gib bitte deinen Benutzernamen an.
@@ -223,23 +223,26 @@ Kooperationen werden, wenn möglich, bei allen Produktionen angegeben. Bei Rück
 
 # Barrierefreiheit
 
-## Geltungsbereich
-Welche Website, App oder Teile die Erklärung abdeckt	beide
+## 1. Geltungsbereich
+Diese Information gilt für die Website [BulwarkMedia.github.io](https://bulwarkmedia.github.io/ "Bulwark Media - Impressum, Datenschutz und Barrierefreiheit"). Für die Barrierefreiheit der Inhalte sind die jeweiligen Plattformen verantwortlich.
 
-## Konformitätsstatus
-vollständig / teilweise / nicht vereinbar mit EN 301 549 bzw. WCAG AA	beide
+## 2. Konformitätsstatus
+Der Konformitätsstatus ist vollständig.
 
-## Bekannte Einschränkungen	
-Was nicht zugänglich ist, warum, bis wann	§ 12b BGG · Anlage 3 Nr. 1 c
+## 3. Bekannte Einschränkungen	
+Einschränkungen nach § 12b BGG · Anlage 3 Nr. 1 c sind nicht bekannt.
 
-## Feedback-Mechanismus	
-Kontaktweg zum Melden von Barrieren	beide
+## 4. Feedback-Mechanismus	
+Sollten die Barrieren auffallen, wende dich bitte an [bulwarkmedia@mailbox.org](mailto:bulwarkmedia@mailbox.org).
 
-## Durchsetzung	
-Hinweis auf Schlichtungsstelle nach § 16 BGG	§ 12b BGG
+## 5. Durchsetzung	
+Bei Problemen mit der Umsetzung der Barrierefreiheit der Bulwark Media wende dich nach § 16 BGG	§ 12b BGG an:  
+    Schlichtungsstelle nach dem Behindertengleichstellungsgesetz  
+    bei dem Beauftragten der Bundesregierung für die Belange von Menschen mit Behinderungen  
+    Mauerstraße 53  
+    10117 Berlin  
 
-## Aufsichtsbehörde
-zuständige Marktüberwachungsbehörde	Anlage 3 Nr. 1 d
+[info@schlichtungsstelle-bgg.de](mailto:info@schlichtungsstelle-bgg.de)
 
 ---
 
