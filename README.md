@@ -16,7 +16,7 @@ Deutschland
 
 ## Kontakt
 
-E-Mail: bulwarkmedia@mailbox.org
+E-Mail: [bulwarkmedia@mailbox.org](mailto:bulwarkmedia@mailbox.org)
 
 ## Umsatzsteuer-Identifikationsnummer
 
@@ -42,7 +42,7 @@ Dieses Impressum gilt für den Discord-Server „NAME“ sowie für die Kanäle 
 
 Bulwark Media  
 Inhaber Andreas Freund  
-E-Mail: bulwarkmedia@mailbox.org  
+E-Mail: [bulwarkmedia@mailbox.org](mailto:bulwarkmedia@mailbox.org)   
 Anschrift: siehe [Impressum](https://bulwarkmedia.github.io/#angaben-gemäß--5-ddg "Impressum")
 
 ## 2. Plattform
@@ -76,7 +76,7 @@ Aus Runden im Kanal └►Stream Live können Videos, Shorts und Clips für Twit
 Der Zugang erfolgt ausschließlich über die selbst gewählte Rolle 🔴 Aufnahme & Veröffentlichung unter „Kanäle & Rollen“. Mit ihrer Auswahl erteilst du deine Einwilligung nach Art. 6 Abs. 1 lit. a DSGVO. Die Teilnahme ist freiwillig; ohne diese Rolle stehen dir alle übrigen Serverfunktionen unverändert offen.
 
 ### Widerruf
-Du kannst deine Einwilligung jederzeit und ohne Angabe von Gründen widerrufen, indem du die Rolle unter „Kanäle & Rollen“ wieder abwählst. Alternativ per Direktnachricht an mich oder per E-Mail an bulwarkmedia@mailbox.org.
+Du kannst deine Einwilligung jederzeit und ohne Angabe von Gründen widerrufen, indem du die Rolle unter „Kanäle & Rollen“ wieder abwählst. Alternativ per Direktnachricht an mich oder per E-Mail an [bulwarkmedia@mailbox.org](mailto:bulwarkmedia@mailbox.org).
 
 Für bereits veröffentlichte Inhalte melde dich bitte ebenfalls. Die Angabe der betroffenen Videos hilft mir, ist aber keine Voraussetzung. Die Rechtmäßigkeit der bis zum Widerruf erfolgten Verarbeitung bleibt unberührt.
 
@@ -94,7 +94,7 @@ Dir stehen die Rechte auf Auskunft (Art. 15), Berichtigung (Art. 16), Löschung 
 > **WIDERSPRUCHSRECHT**  
 > Du hast das Recht, aus Gründen, die sich aus deiner besonderen Situation ergeben, jederzeit gegen die Verarbeitung auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO Widerspruch einzulegen (Art. 21 DSGVO).
 
-Wende dich dafür an bulwarkmedia@mailbox.org. Zur Zuordnung deiner Anfrage gib bitte deinen Benutzernamen an.
+Wende dich dafür an [bulwarkmedia@mailbox.org](mailto:bulwarkmedia@mailbox.org). Zur Zuordnung deiner Anfrage gib bitte deinen Benutzernamen an.
 
 ## 7. Beschwerderecht
 
