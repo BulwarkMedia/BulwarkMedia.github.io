@@ -33,7 +33,7 @@ E-Mail: [bulwarkmedia@mailbox.org](mailto:bulwarkmedia@mailbox.org)
 ## Umsatzsteuer-Identifikationsnummer
 
 Gemäß § 27 a Umsatzsteuergesetz:  
-DE000000000
+DE465659509
 
 ## Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV
 
@@ -46,7 +46,7 @@ Deutschland
 
 ## Geltungsbereich
 
-Dieses Impressum gilt für den Discord-Server „NAME“ sowie für die Kanäle auf Twitch, YouTube und Instagram der Bulwark Media.
+Dieses Impressum gilt für den Discord-Server „Die Bullies (Bulwark Community)“ sowie für die Kanäle auf Twitch, YouTube und Instagram der Bulwark Media.
 
 ---
 
