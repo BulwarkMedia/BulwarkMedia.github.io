@@ -1,8 +1,6 @@
-> DIESE SEITE BEFINDET SICH NOCH IM AUFBAU - DIE DATEN SIND NOCH NICHT AKTUELL
-
 # Bulwark Media - Impressum, Datenschutz und Barrierefreiheit
 
-Stand: 02. Oktober 2026
+Stand: 16. Oktober 2026
 
 ---
 
